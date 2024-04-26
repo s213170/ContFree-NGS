@@ -125,3 +125,4 @@ This should split your large taxonomic classification file into small files with
 ## Publication
 
 Peres, F.V., Riaño-Pachón, D.M. (2021). ContFree-NGS: Removing Reads from Contaminating Organisms in Next Generation Sequencing Data. Advances in Bioinformatics and Computational Biology. BSB 2021. Lecture Notes in Computer Science, vol 13063. Springer, Cham. DOI: https://doi.org/10.1007/978-3-030-91814-9_6
+
